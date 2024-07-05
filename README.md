@@ -12,7 +12,7 @@ This is a solution to the E-commerce product page project of Frontend developmen
 This project is from frontend mentor where new challenges were to developer your frontend skills.This particular challenge uses mainly html and css.
 
 # The project
-You can use any tools you like to help you complete this  project.Rhis project is all about practice your skills. a d hence it increase your ability to perform such task that will make your as a frontend developer. 
+You can use any tools you like to help you complete this  project.This project is all about practice your skills. a d hence it increase your ability to perform such task that will make your as a frontend developer. 
 
 # Built with
 •HTML
