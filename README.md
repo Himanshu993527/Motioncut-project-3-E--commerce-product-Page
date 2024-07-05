@@ -3,7 +3,7 @@
 This is a solution to the E-commerce product page project of Frontend development. This will help you improve your coding skills by building realistic projects.
 
 # Table of contents
-# 1.Overview
+1.Overview
 2.The project
 3.Built with
 4.To frontend Mentors
