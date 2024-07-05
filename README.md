@@ -1,12 +1,12 @@
-# Motioncut-project-3-E--commerce-product-Page
+# Motioncut-project-3 E-commerce-product-Page
+
 This is a solution to the E-commerce product page project of Frontend development. This will help you improve your coding skills by building realistic projects.
 
 # Table of contents
-Overview
-The project
-Screenshot
-Built with
-To frontend Mentors
+1.Overview
+2.The project
+3.Built with
+4.To frontend Mentors
 
 # Overview
 This project is from frontend mentor where new challenges were to developer your frontend skills.This particular challenge uses mainly html and css.
